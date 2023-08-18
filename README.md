@@ -38,11 +38,7 @@ This repository contains code to implement a simple contact form with form valid
 
 5. Ensure proper permissions:
 
-- Make sure that your web server has write permissions to the directory where the repository is cloned, so it can write log files and possibly attachments for emails.
-
-6. Access the form:
-
-- Open a web browser and navigate to `http://your-domain/contact-form/index.html` to access the contact form.
+- Make sure that your web server has write permissions to the directory where the repository is cloned, so it can write log files and possibly attachments for email
 
 ## Security Considerations
 
